@@ -1,2 +1,4 @@
 *.ini
 *.cpython-311.pyc
+*.cpython-312.pyc
+/__pychache__/
